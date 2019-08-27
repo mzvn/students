@@ -1,0 +1,6 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/StudentsApi/StudentsApi/bin/Debug/netcoreapp2.2
+/StudentsApi/.vs/StudentsApi/v16/Server/sqlite3
